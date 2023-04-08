@@ -1,2 +1,3 @@
-# 5StagePipelinedCPU
-Implement a 5 stage Pipelined CPU for MIPS instruction set with Verilog
+
+
+![3050_Project_4_report_00](./assets/3050_Project_4_report_00.png)
